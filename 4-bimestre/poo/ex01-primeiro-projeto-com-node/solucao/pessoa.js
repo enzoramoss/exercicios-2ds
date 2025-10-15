@@ -3,3 +3,5 @@ function apresentarPessoa(nome, idade) {
 }
 
 console.log(apresentarPessoa("John", 33))
+
+module.exports = apresentarPessoa
